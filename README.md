@@ -43,7 +43,7 @@ All changes will undergo a verification process before submission.
  10. [Aaron](https://www.openstreetmap.org/user/G0d)
  11. [Kevin](https://www.openstreetmap.org/user/i<3Ralphie)
  12. [Dakota](https://www.openstreetmap.org/user/Viewtiful_Joe)
- 13. [FroZone](https://www.openstreetmap.org/user/FroZone)
+ 13. [Joey](https://www.openstreetmap.org/user/Frozone)
  
 
 Please feel free to reach out to us with feedback, questions and suggestions to OSM@uber.com. 
