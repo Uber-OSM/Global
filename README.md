@@ -31,19 +31,8 @@ The team will use the change-set comments as per the [OSM Changeset Guidelines](
 All changes will undergo a verification process before submission.
 
 # Team
- 1. [Colin](https://www.openstreetmap.org/user/Ironman324)
- 2. [Nova](https://www.openstreetmap.org/user/CaptainVietnam)
- 3. [Mark](https://www.openstreetmap.org/user/AntMan24)
- 4. [Adrian](https://www.openstreetmap.org/user/BatMan1234)
- 5. [Perla](https://www.openstreetmap.org/user/perlywerly)
- 6. [Kelly](https://www.openstreetmap.org/user/GreenApple11)
- 7. [Edwardo](https://www.openstreetmap.org/user/Bigredgum) 
- 8. [Hung](https://www.openstreetmap.org/user/HLOSM) 
- 9. [Alexander](https://www.openstreetmap.org/user/All_Might)
- 10. [Aaron](https://www.openstreetmap.org/user/G0d)
- 11. [Kevin](https://www.openstreetmap.org/user/i<3Ralphie)
- 12. [Dakota](https://www.openstreetmap.org/user/Viewtiful_Joe)
- 13. [Joey](https://www.openstreetmap.org/user/Frozone)
+[Here](https://github.com/Uber-OSM/DataTeam) the link to our data team.
+
  
 
 Please feel free to reach out to us with feedback, questions and suggestions to OSM@uber.com. 
