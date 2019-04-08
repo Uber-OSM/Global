@@ -1,18 +1,19 @@
-# NewDelhi
+# Uber planning to explore and contribute to OpenStreetMap
 
 # Overview 
-Uber sees OSM as a valuable tool and uses it in internal models to help determine time + distance estimates for fare calculation and to optimize driver and rider matching. In certain circumstances, we are able to observe that road directionality and turn restrictions are not up-to-date. We plan to explore these issues and, where appropriate, submit updates to correct the issue. We have selected the Delhi NCR region as the first city for this initiative. 
+Uber sees OSM as a valuable tool and uses it in internal models to help determine time + distance estimates for fare calculation. In certain circumstances, we are observing that the geometries and its associted attributes are not up-to-date. We at Uber are planning to explore and contribute to OpenStreetMap in various places across the globe.
 
-We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a small team of individuals based in Palo Alto, California, USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We will share the profiles of our editors on Uber’s OSM page. The edits will be made according to the Organized Editing Best Practices and India guidelines. In addition, Uber employees based in Delhi will be able to participate in this project by leveraging their local knowledge to help identify data issues. 
+We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a team of individuals based in India and USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We have shared the profiles of our editors on [Data Team page](https://github.com/Uber-OSM/DataTeam). 
 
-For this project, our team will focus on adding and modifying the following OSM features: 
-Turn restriction.
-Directionality.
-Road Geometry.
+The edits will be made according to the Organized editing best practices and country-specific OSM policies. In addition to that, Uber editors are also committed to improve their edits based on feedback from the community and by leveraging local knowledge to help identify data issues and resolution. For this project, our team intends to focus on adding and modifying the following OSM features:
 
-Please feel free to reach out to us with feedback, questions, and suggestions at OSM@uber.com. 
+   1. Geometry includes (updation of geometries including alignments, missing road features, Nodes connectivity etc.)
+   2. Road Network (Road Class, Road Condition, Turn restriction, Directionality etc.)
+   3. Display map features (Building Footprints, Land use etc.)
 
-We are looking forward to this collaboration. 
+Please feel free to reach out to us with feedback, questions, and suggestions at OSM@uber.com.
+
+We would appreciate your suggestions and cooperations going forward!
 
 
 # Edit Guidelines
