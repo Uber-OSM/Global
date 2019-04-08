@@ -1,7 +1,7 @@
 # Uber planning to explore and contribute to OpenStreetMap
 
 # Overview 
-Uber sees OSM as a valuable tool and uses it in internal models to help determine time + distance estimates for fare calculation. In certain circumstances, we are observing that the geometries and its associted attributes are not up-to-date. We at Uber are planning to explore and contribute to OpenStreetMap in various places across the globe.
+Uber sees OSM as a valuable tool for various internal models. In certain circumstances, we are observing that the geometries and its associted attributes are not up-to-date. We at Uber are planning to explore and contribute to OpenStreetMap in various places across the globe.
 
 We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a team of individuals based in India and USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We have shared the profiles of our editors on [Data Team page](https://github.com/Uber-OSM/DataTeam). 
 
