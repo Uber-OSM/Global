@@ -1,6 +1,9 @@
 # Uber planning to explore and contribute to OpenStreetMap
 
 # Overview 
+
+Hello OSM mappers,
+
 We at Uber are planning to explore and contribute to OpenStreetMap in various places across the globe.
 
 We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a team of individuals based in India and USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We have shared the profiles of our editors on [Data Team page](https://github.com/Uber-OSM/DataTeam). 
